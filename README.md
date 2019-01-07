@@ -10,7 +10,7 @@ I was creating a small painting for a family member and wanted it to included an
 
 ## Example
 
-![Windows demo](/https://raw.githubusercontent.com/capbrown/text-binary-image-converter/master/demo.png)
+![Windows demo](https://raw.githubusercontent.com/capbrown/text-binary-image-converter/master/demo.PNG)
 
 ## TODO
 
