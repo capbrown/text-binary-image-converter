@@ -1,6 +1,6 @@
 # text-binary-image-converter
 
-I was creating a small painting for a family member and wanted it to included an encoded message. This utility converts a plaintext message into binary which becomes an 'abstract' image of the data. This was also created to increase my familiarity with numpy arrays and GUI creation in Python.
+I was creating a small painting for a family member and wanted it to included an encoded message. This utility converts a plaintext message into binary which becomes an 'abstract' image of the data. Basically the skim milk of QR codes. It was also created to increase my familiarity with numpy arrays and GUI creation in Python.
 
 ## Dependencies
 
